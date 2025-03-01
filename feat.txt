@@ -1,0 +1,1 @@
+bu feat branch'in de bulunan txt dosyasının ilk satırıdır.
